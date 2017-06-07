@@ -1,5 +1,2 @@
-# OlgaPoddubko-front-end-course
-2016 - Belarusian National Tachnical University, web-design and computer graphics <br>
-2009 - Belarusian State Academy of Music, musicology
-
-# layout-workshop
+demo: https://olgapoddubko.github.io/layout-workshop/
+task: https://github.com/rolling-scopes-school/tasks/blob/2016-Q4/tasks/layout_workshop.md
